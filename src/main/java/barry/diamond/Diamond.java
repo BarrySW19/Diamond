@@ -6,7 +6,7 @@ import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 
 /**
- * Print a diamond where the supplied argument
+ * Print a diamond where the supplied argument specifies the central line.
  */
 public class Diamond {
 
