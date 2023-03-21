@@ -1,4 +1,4 @@
-package barry.newday;
+package barry.diamond;
 
 import java.util.Deque;
 import java.util.LinkedList;
